@@ -1,0 +1,41 @@
+US-China chip war: Beijing unhappy at latest wave of US restrictions
+
+Business reporter
+
+Share
+Getty Images Flag of the US and China on a microchip.Getty Images
+China has hit back at the Biden administration's decision to impose new restrictions on advanced chip exports.
+
+The foreign ministry said the curbs "violate the principles of the market economy and fair competition".
+
+The measures target chipmaking tools as well as advanced chips, including two from market leader Nvidia.
+
+The move is being seen as an attempt to close loopholes that became apparent after an initial wave of chip controls last October.
+
+America said the measures were designed to prevent China from receiving cutting-edge technologies that it could use to strengthen its military, especially in the field of artificial intelligence (AI).
+
+The Biden administration has denied it was trying to hurt China economically, but Beijing's foreign ministry branded the move "forced de-coupling for political purposes".
+
+Chinese stock markets which feature chip-related companies have seen modest falls since the announcement. The CSI Semiconductor Index dropped 1.4% on Wednesday, while the STAR Chip Index lost 1.2%.
+
+
+An index tracking China's AI companies also closed 1.8% lower.
+
+US chip stocks have also seen falls as the curbs also hit American firms Advanced Micro Devices and Intel.
+
+Nvidia has said in a filing that the new export restrictions will block sales of two high-end artificial intelligence chips it created for the Chinese market - A800 and H800. It said that one of its gaming chips will also be blocked.
+
+Although the curbs also affect other chip makers, analysts believe Nvidia will be hit the hardest because China accounts for up to 25% of its revenues from data centre chip sales. Nvidia's shares, which are considered a star stock, fell by as much as 4.7% in the wake of the announcement.
+
+The Semiconductor Industry Association, which represents 99% of the US semiconductor industry by revenue, said in a statement that the new measures are "overly broad" and "risk harming the US semiconductor ecosystem without advancing national security as they encourage overseas customers to look elsewhere".
+
+Two months ago, China retaliated by restricting exports of two materials, gallium and germanium, which are key to the semiconductor industry.
+
+China is by far the biggest player in the global supply chain of gallium and germanium. It produces 80% of the world's gallium and 60% of germanium, according to the Critical Raw Materials Alliance (CRMA) industry body.
+
+
+The materials are "minor metals", meaning that they are not usually found on their own in nature, and are often the by-product of other processes.
+
+Besides the US, both Japan and the Netherlands - which is home to key chip equipment maker ASML - have also imposed chip technology export restrictions on China.
+
+The constant tit-for-tat between the world's two biggest economies has raised concerns over the rise of so-called "resource nationalism" when governments hoard critical materials to exert influence over other countries.

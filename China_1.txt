@@ -1,0 +1,32 @@
+Chinese, U.S. researchers create world's first graphene semiconductor
+
+Researchers from China and the U.S. have jointly developed the world's first functional semiconductor made from graphene, paving the way for smaller, faster and more efficient electronic products.
+
+Semiconductors are materials that conduct electricity under certain conditions, which are the basic components of electronic devices.
+
+They "are essential to allow all computers to function," Sarah Haigh, professor of materials at the National Graphene Institute at the University of Manchester, UK, told Deutsche Welle (DW).
+
+Semiconductors "allow us to create tiny switches which can be turned on and off to allow the flow of electricity. It is this electricity flowing through electrical circuits that allows computers to perform calculations," said Haigh.
+
+Currently, almost all modern electronics rely on silicon-based semiconductors. While electronic devices are becoming smaller with faster processing speeds, silicon-based semiconductors are approaching the limits of their physical capabilities. New research directions include quantum chips and carbon-based ones.
+
+Graphene, which is a single sheet of carbon atoms held together by the strongest bonds known, features toughness, flexibility, lightness and high resistance.
+
+However, a long-standing problem preventing its use in electronics is that graphene does not have a "band gap," which is a crucial electronic property that allows semiconductors to switch on and off.
+
+A team of researchers from Tianjin University in China and Georgia Institute of Technology in the U.S. has now made a breakthrough in turning graphene into a semiconductor.
+
+Their study was published in Nature on Wednesday.
+
+The researchers grew graphene on silicon carbide wafers using a special furnace to produce epitaxial graphene, which is a single layer of material grown on silicon carbide crystal faces.
+
+They found that if made properly, the epitaxial graphene will chemically bond with the silicon carbide and exhibit semiconducting properties.
+
+The team's measurement showed that the graphene semiconductor has 10 times greater mobility than silicon.
+
+"In other words, the electrons move with very low resistance, which, in electronics, translates to faster computing," said the research team.
+
+"It's like driving on a gravel road versus driving on a freeway," said lead author Walter de Heer. "It's more efficient, it doesn't heat up as much, and it allows for higher speeds so that the electrons can move faster."
+
+The researchers said epitaxial graphene could cause a paradigm shift in electronics and lead to completely new technologies that take advantage of its unique properties.
+

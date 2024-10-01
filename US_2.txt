@@ -1,0 +1,73 @@
+US escalates tech battle by cutting China off from AI chips
+
+How Biden administration's export ban is choking off China's tech ambitions (Nov, 2022)
+02:55 - Source: CNN
+Editor’s Note: Sign up for CNN’s Meanwhile in China newsletter which explores what you need to know about the country’s rise and how it impacts the world.
+
+Hong Kong/Washington
+CNN
+ — 
+The Biden administration is reducing the types of semiconductors that American companies will be able to sell to China, citing the desire to close loopholes in existing regulations announced last year.
+
+On Tuesday, the US Commerce Department unveiled new rules that further tighten a sweeping set of export controls first introduced in October 2022.
+
+The updated rules “will increase effectiveness of our controls and further shut off pathways to evade our restrictions,” US Commerce Secretary Gina Raimondo said in a statement. “We will keep working to protect our national security by restricting access to critical technologies, vigilantly enforcing our rules, while minimizing any unintended impact on trade flows.”
+
+Advanced artificial intelligence chips, such as Nvidia’s H800 and A800 products, will be affected, according to a regulatory filing from the US company.
+
+The regulations also expand export curbs beyond mainland China and Macao to 21 other countries with which the United States maintains an arms embargo, including Iran and Russia.
+
+The measures, which have affected the shares of major American chipmakers, are set to take effect in 30 days.
+
+The original rules had sought to hamper China’s ability to procure advanced computing chips and manufacture advanced weapons systems. Since then, senior administration officials have suggested they needed to be adjusted due to technological developments.
+
+Not all chips
+Raimondo, who visited China in August, said the administration was “laser-focused” on slowing the advancement of China’s military. She emphasized that Washington had opted not to go further in restricting chips for other applications.
+
+Chips used in phones, video games and electric vehicles were purposefully carved out from the new rules, according to senior administration officials.
+
+But these assurances are unlikely to placate Beijing, which has vowed to “win the battle” in core technologies in order to bolster the country’s position as a tech superpower.
+
+China’s Foreign Ministry criticized the Biden administration’s new rules Monday, before they were officially unveiled.
+
+“The US needs to stop politicizing and weaponizing trade and tech issues and stop destabilizing global industrial and supply chains,” spokesperson Mao Ning told a press briefing. “We will closely follow the developments and firmly safeguard our rights and interests.”
+
+SK Hynix Inc. 256GB Double-Data-Rate (DDR) 5 memory modules at the company's office in Seongnam, South Korea, on Wednesday, April 20, 2022. SK Hynix is scheduled to release earnings figures on April 27. Photographer: SeongJoon Cho/Bloomberg via Getty Images
+South Korean firms get indefinite waiver on US chip gear supplies to China
+As part of ongoing dialogue established by Raimondo and other US officials with their Chinese counterparts, Beijing was informed of the impending updates, according to a senior administration official.
+
+“We let the Chinese know for clarity that these rules were coming, but there was no negotiation with them,” the official told reporters.
+
+The tech rivalry between the world’s two largest economies has been heating up. In recent months, the United States has enlisted its allies in Europe and Asia in restricting sales of advanced chipmaking equipment to China.
+
+In July, Beijing hit back by imposing its own curbs on exports of germanium and gallium, two elements essential for making semiconductors.
+
+Nvidia, Intel, AMD affected
+Shares of US chipmakers fell Tuesday following the announcement of new export controls.
+
+Nvidia’s (NVDA) stock closed down 4.7%, while Intel (INTC) slipped 1.4%. AMD (AMD) shares ended 1.2% lower.
+
+In its filing, Nvidia said the rules imposed new licensing requirements for exports to China and other markets such as Saudi Arabia, the United Arab Emirates and Vietnam.
+
+The company said its A800 chip, which was reportedly created for Chinese customers in order to circumvent last year’s restrictions, would be among the components affected.
+
+A Nvidia Grace CPU Superchip, left, and Grace-Grace module arranged at the company's headquarters in Santa Clara, California, US, on Monday, June 5, 2023. Nvidia Corp., suddenly at the core of the world's most important technology, owns 80% of the market for a particular kind of chip called a data-center accelerator, and the current wait time for one of its AI processors is eight months. Photographer: Marlena Sloss/Bloomberg
+Nvidia says US curbs on AI chip sales to China would cause 'permanent loss of opportunities'
+However, “given the strength of demand for our products worldwide, we do not anticipate that the additional restrictions will have a near-term meaningful impact on our financial results,” Nvidia said.
+
+The broader US chipmaking industry is also examining the impact of the new rules.
+
+The Semiconductor Industry Association said in a statement Tuesday that while it recognized the need to protect national security, “overly broad, unilateral controls risk harming the US semiconductor ecosystem without advancing national security as they encourage overseas customers to look elsewhere.”
+
+“We urge the administration to strengthen coordination with allies to ensure a level playing field for all companies,” added the group, which represents 99% of the US chip sector.
+
+The measures are also being reviewed in Europe. On Tuesday, ASML, the Dutch chipmaking equipment manufacturer, said it was evaluating the implications of the rules, though it did not expect them “to have a material impact on our financial outlook for 2023.”
+
+During a call Wednesday about the company’s third-quarter results, ASML chief executive Peter Wennink said the updated export restrictions would affect between 10% and 15% of the firm’s sales to China.
+
+On Tuesday, the US Department of Commerce added 13 Chinese entities to a list of firms with which US companies may not do business for national security reasons.
+
+They include two Chinese startups, Biren Technology and Moore Thread Intelligent Technology, and their subsidiaries.
+
+The department alleges that these companies are “involved in the development of advanced computing chips that have been found to be engaged in activities contrary to US national security.”
+
