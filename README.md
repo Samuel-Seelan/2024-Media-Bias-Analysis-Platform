@@ -1,5 +1,5 @@
 # April-2024-Media-Bias-Analysis
-Media based Sentiment Analysis Platform
+Media Based Sentiment Analysis Platform
 
 
 textastic_app.py - 
@@ -15,3 +15,13 @@ This file is designed for parsing and analyzing text data from both plain text a
 
 visualization.py -
 This  file is designed to create various visualizations for text analysis, including word clouds, a Sankey diagram, and sentiment analysis.
+
+China/U.S. text files-
+These text files are snippets extracted from articles from CCTV, CGTN, China.org, BBC, CNN, and the New York Times about the Chinese and U.S. semiconductor war. 
+These files are used as an example to test the platform. Using these text files we can determine the most common words and overall sentiments in order to compare and contrast the bias between the two countries about the Chinese and U.S. semiconductor war. 
+
+
+stopwords.txt - 
+
+Words in this file are filtered out as these words are common and non-informative.
+
